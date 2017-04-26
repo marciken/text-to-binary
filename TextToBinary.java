@@ -7,7 +7,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 
 
-public class Test {
+public class TextToBinary {
     public static void main(String[] args) throws Exception {
         
          try {
